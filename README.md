@@ -1,4 +1,5 @@
 
 
-## MNIST
-to download the MNIST dataset with standard train/valid/test splits, do `python download.py --dataset=mnist --savedir={where-you-want-to-save-the-dataset}`
+## Manually coded MLP to work on MNIST dataset
+
+Still needs a little bit of love
